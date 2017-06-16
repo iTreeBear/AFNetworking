@@ -21,7 +21,6 @@
 // THE SOFTWARE.
 
 #import "PostTableViewCell.h"
-
 #import "Post.h"
 #import "User.h"
 
